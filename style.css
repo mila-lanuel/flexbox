@@ -8,5 +8,10 @@
 }
 
 #hero{
-    background-image: url(../images/sunflower.jpg);
+    background-image: url('../images/sunflower.jpg');
+    background-size: cover;
+    background-position: centre;
+    height: 100vh;
+    display: flex;
+    
 }
